@@ -10,4 +10,7 @@ Findings collected step by step. Each one is 1–3 sentences backed by a number.
 
 **Dates and times are text.** `Delivery Date` (`"01/01/2024"`) and `Hour Ending` (`"01:00"` to `"24:00"`) load as strings. `"24:00"` isn't a valid time, so they can't be parsed directly into timestamps.
 
-**Prices:** Average: $28.903/MWh, Max: $2347.76/MWh (1/16/2024 @ LZ_LCRA), Cheapest Hub: HB_PAN with avg- $21.16/MWh
+**Prices:** 
+Average: $28.903/MWh, 
+Max: $2347.76/MWh (1/16/2024 @ LZ_LCRA) - Price during the texas winter freeze!!, 
+Cheapest Hub: HB_PAN with avg- $21.16/MWh
