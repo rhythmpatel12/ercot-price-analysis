@@ -9,3 +9,6 @@ data/
 
 # Virtual environments
 .venv
+
+# Other
+.ipynb_checkpoints/
